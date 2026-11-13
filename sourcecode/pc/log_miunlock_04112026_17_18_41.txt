@@ -1,0 +1,12 @@
+=== XIAOMI UNLOCK TOOL LOG ===
+Version: 8.2
+Date: 2026-11-04 17:18:41
+==============================
+SETTINGS:
+Mode: Auto Mode
+Spam Mode: True
+Skip Cookie Check: False
+Language: en
+Server List: ['sgp-api.buy.mi.com']
+==============================
+
