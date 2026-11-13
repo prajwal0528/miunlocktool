@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="#english"><b>English</b></a> • <a href="#русский"><b>Русский</b></a>
+  <a href="#english"><b>English</b></a>
 </p>
 
 ---
@@ -157,11 +157,5 @@ Copyright (C) 2026 AsInsideOut
 * **4PDA Discussion Topic:** [4PDA Xiaomi Unlock Tool Forum](https://4pda.to/forum/index.php?showtopic=721838&view=findpost&p=145201115)
 * **Reddit:** [u/AsInsideOut](https://reddit.com/u/AsInsideOut)
 * **Support Email:** `support@miunlock.su`
-
-#### Support the Project
-* **Crypto (USDT / TON):** `UQBCkvXTF-NiT7P8g0G-4oiAdsU81rMWJNYBTxDrbl76FabG`
-* **Bitcoin (BTC):** `bc1qzzt00sk0zdxgskw8xx8cjh4jl69wl7fvlshhsh`
-* **DonationAlerts:** [https://www.donationalerts.com/r/asinsideout](https://www.donationalerts.com/r/asinsideout)
-* **DaLink:** [https://dalink.to/asinsideout](https://dalink.to/asinsideout)
 
 ---
